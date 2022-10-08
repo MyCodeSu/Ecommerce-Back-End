@@ -26,7 +26,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ### Link to Recorded Walk Through
 
-https://drive.google.com/file/d/1fF3zEzyHuUJ3bgptDmrrvSbe-OJC_gg8/view?usp=sharing
+https://drive.google.com/file/d/1b8U5PjVjSdu42CuSpzNCtTbEVqC7HJMu/view?usp=sharing
 
 ### License
 
